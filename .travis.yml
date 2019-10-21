@@ -1,0 +1,22 @@
+language: python
+
+python:
+  - 3.6
+
+bundler_args: --retry 3
+
+addons:
+  apt:
+    packages:
+    - graphviz
+
+install:
+  - sudo apt-get update
+  - chmod +x ./utils/travis_miniconda.sh
+  - ./utils/travis_miniconda.sh
+  - PATH="$HOME/miniconda/bin:$PATH"
+  - conda env create -f environment.yml
+  - source activate Student_Project_n
+
+script:
+  - travis_wait python utils/travis_runner.py
