@@ -9,7 +9,7 @@ Project to grade: [Project by Arkadiusz Modzelewski](https://github.com/HumanCap
 [![Build Status](https://travis-ci.com/ArcadiusM/student-project-ArcadiusM.svg?branch=master)](https://travis-ci.com/ArcadiusM/student-project-ArcadiusM)
 
 Problems with nbviewer: Please take into account that when I tried to view my project with nbviewer not always whole project appeared. The end of the project is part with References. 
-<a href="https://nbviewer.jupyter.org/github/HumanCapitalAnalysis/student-project-ArcadiusM/blob/master/Student_Project_n.ipynb" 
+<a href="https://nbviewer.jupyter.org/github/ArcadiusM/student-project-ArcadiusM/blob/master/Student_Project_n.ipynb" 
    target="_parent">
    <img align="center"
   src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"
