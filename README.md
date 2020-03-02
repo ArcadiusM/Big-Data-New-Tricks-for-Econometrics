@@ -6,7 +6,7 @@ Varian, Hal R. 2014. "Big Data: New Tricks for Econometrics." Journal of Economi
 
 Project to grade: [Project by Arkadiusz Modzelewski](https://github.com/HumanCapitalAnalysis/student-project-ArcadiusM/blob/master/Student_Project_n.ipynb)
 
-[![Build Status](https://travis-ci.com/ArcadiusM/student-project-ArcadiusM.svg?branch=master)](https://travis-ci.com/ArcadiusM/student-project-ArcadiusM)
+[![Build Status](https://travis-ci.com/ArcadiusM/Big-Data-New-Tricks-for-Econometrics.svg?branch=master)](https://travis-ci.com/ArcadiusM/student-project-ArcadiusM)
 
 Problems with nbviewer: Please take into account that when I tried to view my project with nbviewer not always whole project appeared. The end of the project is part with References. 
 <a href="https://nbviewer.jupyter.org/github/ArcadiusM/student-project-ArcadiusM/blob/master/Student_Project_n.ipynb" 
